@@ -1,0 +1,12 @@
+h1 {
+	text-align : center;
+	color : darkblue;
+}
+#ip {
+    margin-left: 20%;
+    border: 2px solid black;
+}
+#btn{
+    margin-left: 30%;
+    border: 2px solid black;
+}
